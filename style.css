@@ -1,0 +1,19 @@
+.me {
+  height: 50%;
+  width: 50%;
+  border: 10px solid red;
+}
+
+.you {
+  background-color: blue;
+  width: 200%;
+  border-style: dotted;
+  border-width: 20px;
+}
+
+.gt {
+  color: yellow;
+  padding: 50 px;
+  border: 20px double green;
+  margin: 30px;
+}
